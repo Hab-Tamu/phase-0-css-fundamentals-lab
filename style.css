@@ -3,3 +3,59 @@ body {
   height: 100%;
   margin: 0;
 }
+
+h1 {
+  text-align: center;
+}
+
+nav {
+  text-align: center;
+}
+
+figure{
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+}
+
+figcaption{
+  text-align: center;
+  font-size: small;
+}
+
+.lorem-ipsum{
+  margin-left: auto;
+  margin-right: auto;
+  width:50%;
+  text-align: center;
+}
+
+#details {
+float: left;
+max-height: 200px;
+background: red;
+width: 100%;
+}
+
+.footer{
+  width: 250px;
+  float: left;
+  margin-right: 10px;
+  margin-left: 100px;
+  text-align: center;
+}
+
+#foo{
+  background: red;
+  max-height: 100px;
+  overflow-y: hidden;
+}
+
+.bar{
+  background: blue;
+}
+
+.bottom-container {
+  background-color: #f5a8a6;
+  padding: 50px 0 20px;
+}
